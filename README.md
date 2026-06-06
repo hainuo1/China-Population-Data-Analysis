@@ -1,2 +1,1 @@
-# 
-使用R语言与数值分析的相关知识，结合建国以来的人口统计数据进行合理的预测，并给予人口方案。
+Apply R and numerical analysis theories on historical Chinese population data, finish demographic prediction and provide relevant population planning suggestions.
