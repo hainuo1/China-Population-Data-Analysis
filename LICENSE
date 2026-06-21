@@ -1,21 +1,23 @@
-MIT License
+版权所有 © 2026 丁俊杰（南京农业大学）
 
-Copyright (c) 2026 Ding Junjie
+本仓库为《数值分析课程设计》课程论文配套项目，包含课程论文、R 语言代码及数据文件，受《中华人民共和国著作权法》保护。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### 允许的行为：
+- 查看：浏览、阅读本仓库源代码、论文及数据文件
+- 学习参考：将本仓库作为学习数值分析、R 语言编程、人口预测建模的参考资料
+- 课堂引用：教师在课堂上引用本仓库内容作为教学素材（须注明出处）
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### 禁止的行为：
+- 商业使用：不得将本仓库或其任何部分用于商业目的
+- 修改后发布：不得对本仓库内容进行修改、改编后以自己名义重新发布
+- 学术抄袭：严禁将本仓库的论文内容、模型方法、数据结果等稍作修改后作为自己的课程作业、毕业论文或其他学术成果提交
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 学术诚信特别声明
+本仓库为作者独立完成的课程设计作业。任何个人或组织若参考本仓库进行课程设计、毕业设计或其他学术用途，必须在参考文献或致谢中明确标注本仓库的出处，严禁整体或部分抄袭后作为自己的成果提交。
+
+转载时请注明出处：
+- GitHub 仓库：https://github.com/hainuo1/China-Population-Data-Analysis
+- 作者：丁俊杰（hainuo1）
+- 学校：南京农业大学 · 信息与计算科学专业
+
+如需获得授权或合作使用，请联系作者。
